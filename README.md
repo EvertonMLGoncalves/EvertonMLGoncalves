@@ -5,15 +5,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-mikey-litka-gonçalves)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPNGjxjKWpVjxmzQkJtRwxVQnfLnkgZkxjnhbQvNtwDZVdwNkvSbtpdDKQkrKPZDDjGW)
 
-![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMLGoncalves&show_icons=true&theme=radical) 
- 
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMLGoncalves&show_icons=true&theme=radical)
+
 ## Most used technologies:
+
 <div style="display: inline-block">
 <img
         src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
         alt=""
       />
-<img
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></>
+<img 
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt=""
       />
@@ -33,8 +35,6 @@
         src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
         alt=""
       />
-</div>  
+</div>
 
 <br/>
-
-
