@@ -1,6 +1,6 @@
 ## Hello, I'm Everton!
 
-### I'm a programmer and I'm currently looking for a job
+### I'm a programmer and I'm currently working as intern
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-mikey-litka-gonçalves)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpPNGjxjKWpVjxmzQkJtRwxVQnfLnkgZkxjnhbQvNtwDZVdwNkvSbtpdDKQkrKPZDDjGW)
@@ -9,10 +9,18 @@
 
 ## Most used technologies:
 
-<div style="display: inline-block">
+<div style="display: inline-block"> 
+<img
+        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor="
+        alt="java"
+      /> 
+      <img
+        src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+        alt="java"
+      />
 <img
         src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-        alt=""
+        alt=".net"
       />
 <img 
 src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
